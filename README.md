@@ -12,7 +12,7 @@
 
 **Stats**
 
-![Stats](https://github-readme-stats.vercel.app/api?username=JumpStone&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=JumpStone&show_icons=true&theme=dark)
 
 **Streak**
 
@@ -30,12 +30,13 @@
 
 ## Projekte
 
-| Projekt          | Beschreibung                                                           | Tech Tags            | Links                                                                                                                                                                                                          |
-| :--------------- | :--------------------------------------------------------------------- | :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **🎮 JS Gaming** | Entwicklung von Modpacks, Resourcepacks und mehr.                                    | `Java` `Design` | [![Static Badge](https://img.shields.io/badge/Website-blue)](https://jumpstone4477.de/gaming) [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/jumpstone-gaming) |
-| **🔋 AkkuCraft** | Entwicklung einer modularen Powerbank welche beliebig erweiterbar ist. | `BMS` `Arduino`      | [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/akku-craft) [![Static Badge](https://img.shields.io/badge/Website-Docs-blue)](https://akku-craft.vercel.app)       |
+| Projekt          | Beschreibung                                                           | Tech Tags       | Links                                                                                                                                                                                                       |
+| :--------------- | :--------------------------------------------------------------------- | :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **🎮 JS Gaming** | Entwicklung von Modpacks, Resourcepacks und mehr.                      | `Java` `Design` | [![Static Badge](https://img.shields.io/badge/Website-blue)](https://jumpstone4477.de/gaming) [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/jumpstone-gaming) |
+| **🔋 AkkuCraft** | Entwicklung einer modularen Powerbank welche beliebig erweiterbar ist. | `BMS` `Arduino` | [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/akku-craft) [![Static Badge](https://img.shields.io/badge/Website-Docs-blue)](https://akku-craft.vercel.app)    |
 
 ---
+
 <p align="center">
   <a href="https://jumpstone4477.de/code-of-conduct">
     <img src="https://img.shields.io/badge/Code%20of%20Conduct-grey?style=flat-square" alt="Code of Conduct">
