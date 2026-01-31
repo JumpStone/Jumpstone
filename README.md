@@ -20,7 +20,7 @@
 
 **Programmiersprachen**
 
-![Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=JumpStone&layout=compact&theme=dark)
+![Programming Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JumpStone&layout=compact&theme=dark)
 
 **Contribution**
 
