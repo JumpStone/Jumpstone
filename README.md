@@ -1,6 +1,6 @@
-# Moin, ich bin Henry.
+# Hi, I'm Henry.
 
-### Developer aus Osnabrück
+### Software developer and hardware enthusiast from Germany
 
 <p>
 <a href="https://github.com/jumpstone"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
