@@ -29,13 +29,19 @@
 
 ---
 
-## Projekte
+## Featured Projects
 
-| Projekt          | Beschreibung                                                           | Tech Tags       | Links                                                                                                                                                                                                       |
-| :--------------- | :--------------------------------------------------------------------- | :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **🎮 JS Gaming** | Entwicklung von Modpacks, Resourcepacks und mehr.                      | `Java` `Design` | [![Static Badge](https://img.shields.io/badge/Website-green)](https://jumpstone4477.de/gaming) [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/jumpstone-gaming) |
-| **🔋 AkkuCraft** | Entwicklung einer modularen Powerbank welche beliebig erweiterbar ist. | `BMS` `Arduino` | [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/akku-craft) [![Static Badge](https://img.shields.io/badge/Wiki-blue?logo=github)](https://github.com/akku-craft/wiki/wiki)    |
-| **📃 DevRead.me** | Dokumentations Generator mithilfe von KI | `AI` `Next.js` | [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/devread-me)
+| Projekt        | Beschreibung                                                         | Tech Tags       | Links                                                                                                                                                                                                                   |
+|:---------------|:---------------------------------------------------------------------|:----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **JS Gaming**  | Development of modpacks, resource packs, and more.                   | `Java` `Design` | [![Static Badge](https://img.shields.io/badge/Website-black)](https://jumpstone4477.de/gaming) [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/jumpstone-gaming)            |
+| **Akku-Craft** | Development of a modular power bank that can be expanded as desired. | `BMS` `Arduino` | [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/akku-craft) [![Static Badge](https://img.shields.io/badge/Wiki-black?logo=github)](https://github.com/akku-craft/wiki/wiki) |
+
+## Other Projects
+
+| Projekt            | Beschreibung                                                                       | Tech Tags                         | Links                                                                                                                                                                                                     |
+|:-------------------|:-----------------------------------------------------------------------------------|:----------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Link Shortener** | Private link shortener build with JavaScript and deployed with Cloudflare Workers. | `JavaScript` `Cloudflare Workers` | [![Static Badge](https://img.shields.io/badge/Repository-black?logo=github)](https://github.com/JumpStone/link-shortener)                                                                                 |
+| **DevRead.me**     | Automatic README.md generator for developers.                                      | `Next.js` `AI`                    | [![Static Badge](https://img.shields.io/badge/Website-black)](https://jumpstone4477.de/devreadme) [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/devread-me) |
 
 ---
 
