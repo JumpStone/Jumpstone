@@ -11,21 +11,20 @@
 
 ---
 
-**Stats**
+## About:
 
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=JumpStone&show_icons=true&theme=dark)
+I am a self-taught developer and sysadmin currently in secondary school. While others are just consuming content, I prefer building the infrastructure behind it. My focus lies in automating processes and maintaining secure, scalable HomeLab systems.
 
-**Streak**
+**My Story:**
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JumpStone&theme=dark)
+* **The Spark:** It all started with a fascination for hardware and the question of how to not just use PC systems, but to configure and optimize them from the ground up.
+* **From Gaming to Admin:** Building and technically leading a Minecraft network was my "baptism by fire" in terms of community management and server stability.
+* **Deep Dive:** Standard software soon wasn't enough. I dove into the world of **Linux (Debian, Fedora)**, **Docker virtualization**, and professional **monitoring with Grafana & Prometheus**.
+* **Current Mission:** My biggest achievement so far has been winning **1st place in the "Jugend forscht" regional round (2026)**. Currently, I am tinkering with custom hardware like my Python-based travel router and preparing for the state-level competition.
 
-**Programmiersprachen**
+**Why I Do What I Do:**
 
-![Programming Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JumpStone&layout=compact&theme=dark)
-
-**Contribution**
-
-![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=JumpStone&theme=github-dark&area_width=400)
+I love solving complex problems that others don't even see.  My goal is to understand, bend, and improve technology.
 
 ---
 
@@ -42,6 +41,12 @@
 |:-------------------|:-----------------------------------------------------------------------------------|:----------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Link Shortener** | Private link shortener build with JavaScript and deployed with Cloudflare Workers. | `JavaScript` `Cloudflare Workers` | [![Static Badge](https://img.shields.io/badge/Repository-black?logo=github)](https://github.com/JumpStone/link-shortener)                                                                                 |
 | **DevRead.me**     | Automatic README.md generator for developers.                                      | `Next.js` `AI`                    | [![Static Badge](https://img.shields.io/badge/Website-black)](https://jumpstone4477.de/devreadme) [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/devread-me) |
+
+---
+
+**Stats**
+
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=JumpStone&show_icons=true&theme=dark)
 
 ---
 
